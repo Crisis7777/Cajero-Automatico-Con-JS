@@ -1,0 +1,58 @@
+Declaración de variables:
+
+var variable; (obsoleta)
+let variable;
+const variable;
+Tipos de datos:
+
+Number (números)
+String (cadenas de texto)
+Boolean (valores booleanos: true o false)
+Array (arreglos)
+Object (objetos)
+Estructuras de control:
+
+if (si)
+else (sino)
+else if (sino si)
+switch (selección múltiple)
+for (bucle for)
+while (bucle while)
+do...while (bucle do...while)
+break (romper un bucle)
+continue (continuar con la siguiente iteración del bucle)
+Funciones:
+
+function nombreFuncion() { ... } (declaración de función)
+nombreFuncion(); (llamada a función)
+Objetos y propiedades:
+
+objeto.propiedad (acceso a una propiedad de un objeto)
+objeto["propiedad"] (acceso a una propiedad utilizando una cadena)
+objeto.metodo() (llamada a un método de un objeto)
+Operadores:
+
+Aritméticos: +, -, *, /, %
+Asignación: =, +=, -=, *=, /=, %=
+Comparación: ==, ===, !=, !==, >, <, >=, <=
+Lógicos: && (AND), || (OR), ! (NOT)
+Incremento/Decremento: ++, --
+Manejo de errores:
+
+try...catch (intentar...capturar)
+throw (lanzar una excepción)
+Eventos:
+
+addEventListener (agregar un controlador de eventos)
+event.preventDefault() (evitar el comportamiento predeterminado)
+Métodos de manipulación del DOM (Document Object Model):
+
+document.getElementById() (obtener un elemento por su ID)
+document.querySelector() (obtener el primer elemento que coincide con un selector CSS)
+element.innerHTML (contenido HTML de un elemento)
+element.textContent (texto sin formato de un elemento)
+element.setAttribute() (establecer un atributo de un elemento)
+element.addEventListener() (agregar un controlador de eventos a un elemento)
+
+Esta lista no es exhaustiva, pero cubre muchas de las sintaxis básicas y comunes en JavaScript. Espero que te sea útil.
+
